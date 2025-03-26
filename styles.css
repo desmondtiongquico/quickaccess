@@ -1,0 +1,10 @@
+header {
+    background-color: #4CAF50;  /* Green background color */
+    color: #ff0000;               /* White text */
+    text-align: right;         /* Center the text */
+    padding: 20px 0;            /* Vertical padding for spacing */
+    font-size: 36px;            /* Adjust the font size */
+    font-weight: bold, italic;          /* Make the font bold */
+    border-bottom: 5px solid #333; /* Optional: Adds a bottom border for separation */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+}
