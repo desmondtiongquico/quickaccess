@@ -1,6 +1,4 @@
-/* This is the external CSS file */
 
-/* Styling the body */
 body {
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
@@ -8,7 +6,6 @@ body {
     padding: 0;
 }
 
-/* Styling the header */
 header {
     background-color: #4CAF50;
     color: white;
@@ -16,7 +13,6 @@ header {
     padding: 20px 0;
 }
 
-/* Styling paragraphs inside sections */
 section p {
     font-size: 18px;
     color: #333;
@@ -24,7 +20,6 @@ section p {
     padding: 10px;
 }
 
-/* Styling the footer */
 footer {
     background-color: #333;
     color: white;
