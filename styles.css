@@ -9,3 +9,14 @@ header {
     border-bottom: 5px solid #333; /* Optional: Adds a bottom border for separation */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
 }
+
+
+footer {
+    background-color: #272727;  /* Green background color */
+    color: #ffffff;               /* White text */
+    text-align: center;         /* Center the text */
+    padding: 20px 0;            /* Vertical padding for spacing */
+    font-family: 'Montserrat', sans-serif; /* Arial font */
+    font-size: 16px;            /* Adjust the font size */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+}
